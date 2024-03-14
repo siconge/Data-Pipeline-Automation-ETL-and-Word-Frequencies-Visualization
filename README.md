@@ -299,9 +299,7 @@ print('words.js created')
 </body>
 </html>
 ```
-<iframe src="code_visualization/d3_bubble_chart.html" width="100%" height="500px"></iframe>
-
-![d3_bubble_chart](code_visualization/d3_bubble_chart.svg)
+<iframe src="code_visualization/d3_bubble_chart.html" width="100%" height="300px"></iframe>
 
 ```python
 
