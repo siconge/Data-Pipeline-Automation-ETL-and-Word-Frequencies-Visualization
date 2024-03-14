@@ -302,4 +302,4 @@ print('words.js created')
 
 ![d3_bubble_chart](code_visualization/d3_bubble_chart.svg)
 
-<!-- breakline -->
+&#160;
